@@ -1,0 +1,1 @@
+Add your own photo here named profile.jpg. The HTML has a placeholder if the image is missing.
